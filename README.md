@@ -1,2 +1,2 @@
 # posts-html-css
-treinando htm
+treinando html
